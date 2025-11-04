@@ -12,6 +12,30 @@ Full Stack Python Developer passionate about designing and building secure, scal
 🎯 Goals: Build secure and high-performance full-stack applications, contribute to open-source projects<br>
 🎲 Fun fact: I think I’m funny… but sometimes my code disagrees 😅
 </p>
+<h2 align="left">💼 Work Experience</h2>
+
+<p align="left">
+🔹 <b>Python Full Stack Developer at Transmedia</b> — India (Jan 2022 – May 2023)<br>
+• Developed and maintained web applications using Django, Flask, React, and Strapi.<br>
+• Implemented Okta authentication and secure user management.<br>
+• Optimized SQL database queries and improved application performance.<br>
+• Collaborated in Agile teams, participated in code reviews, and maintained CI/CD pipelines.<br>
+</p>
+
+<h2 align="left">🚀 Projects</h2>
+
+<p align="left">
+🔹 <b>Snake Game</b> — A classic 2D game built with Python and Pygame, demonstrating OOP, real-time input handling, and collision detection.  
+
+🔹 <b>Online Calendar App</b> — Full-stack web application built with Flask, SQLite, and JavaScript for scheduling and event management.  
+
+
+🔹 <b>Okta + Strapi Integration</b> — Secure user authentication system integrating Okta with a Django + React + Strapi full-stack application.  
+
+
+🔹 <b>AI Chatbot</b> — An intelligent chatbot built using Python, NLP libraries, and Flask for web integration; capable of answering user queries and simulating conversations.  
+
+🔹 <b>Data Dashboard</b> — Interactive dashboard built with Python, Pandas, and Tableau for data visualization and analytics.  
 
 <p align="left">
 <h3 align="left">Languages and Tools:</h3>

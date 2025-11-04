@@ -21,6 +21,18 @@ Full Stack Python Developer passionate about designing and building secure, scal
 • Optimized SQL database queries and improved application performance.<br>
 • Collaborated in Agile teams, participated in code reviews, and maintained CI/CD pipelines.<br>
 </p>
+<h2 align="left">🧠 Featured Projects</h2>
+
+<p align="left">
+🧩 <b>Smart Inventory Management System</b> — Full-stack inventory management app built with Django and React for efficient stock tracking and reporting.<br>
+🔗 <a href="https://github.com/HimaBinduLakkoju/Smart-Inventory-Management-System">View Project</a><br><br>
+
+🤖 <b>AI Resume Analyzer</b> — Flask-based application using NLP to analyze resumes, extract skills, and provide scoring for recruiters.<br>
+🔗 <a href="https://github.com/HimaBinduLakkoju/AI-Resume-Analyzer">View Project</a><br><br>
+
+☁️ <b>Task Tracker App</b> — Task management application deployed on AWS using Docker, enabling team collaboration and real-time updates.<br>
+🔗 <a href="https://github.com/HimaBinduLakkoju/Task-Tracker-App">View Project</a>
+</p>
 
 <h2 align="left">🚀 Projects</h2>
 
